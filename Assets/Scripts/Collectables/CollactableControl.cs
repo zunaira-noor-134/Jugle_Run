@@ -5,13 +5,13 @@ using UnityEngine.UI;
 
 public class CollactableControl : MonoBehaviour
 {
-    public static int coinCount;
-    public GameObject coinCountDisplay;
+    public static int markCount;
+    public GameObject markCountDisplay;
     public GameObject coinEndDisplay;
 
     void Update()
     {
-        coinCountDisplay.GetComponent<Text>().text = "" + coinCount;
-        coinEndDisplay.GetComponent<Text>().text = "" + coinCount;
+        markCountDisplay.GetComponent<Text>().text = "" + markCount;
+        coinEndDisplay.GetComponent<Text>().text = "" + markCount;
     }
 }

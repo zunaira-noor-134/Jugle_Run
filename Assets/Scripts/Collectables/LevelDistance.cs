@@ -7,7 +7,7 @@ public class LevelDistance : MonoBehaviour
 {
     public GameObject disDisplay;
     public GameObject disEndDisplay;
-    public int disRun;
+    public int gpaScore;
     public bool addingDis = false;
     public float disDelay = 0.75f;
     
@@ -23,9 +23,9 @@ public class LevelDistance : MonoBehaviour
 
     IEnumerator AddingDis()
     {
-        disRun += 1;
-        disDisplay.GetComponent<Text>().text = "" + disRun;
-        disEndDisplay.GetComponent<Text>().text = "" + disRun;
+        gpaScore += 1;
+        disDisplay.GetComponent<Text>().text = "" + gpaScore;
+        disEndDisplay.GetComponent<Text>().text = "" + gpaScore;
         yield return new WaitForSeconds(disDelay);
         addingDis = false;
     }
