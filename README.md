@@ -1,3 +1,4 @@
+
 # Endless Runner
 
 ## What is this?
@@ -9,3 +10,5 @@ Combining 3D Platformer elements with Endless stages in a Low(ish) Poly world, t
 
 ## What do you do in the game?
 Simple! You select a stage, select a character and run as far as you can collecting as many coins and gems as possible. 
+
+<img width="824" height="357" alt="image" src="https://github.com/user-attachments/assets/28ed1249-d3cb-4a8e-9ab8-a2c7bae2ef0e" />
