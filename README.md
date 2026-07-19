@@ -12,3 +12,8 @@ Combining 3D Platformer elements with Endless stages in a Low(ish) Poly world, t
 Simple! You select a stage, select a character and run as far as you can collecting as many coins and gems as possible. 
 
 <img width="824" height="357" alt="image" src="https://github.com/user-attachments/assets/28ed1249-d3cb-4a8e-9ab8-a2c7bae2ef0e" />
+<img width="827" height="322" alt="image" src="https://github.com/user-attachments/assets/ec378e9a-bf87-481b-a18e-09f9e17e2a85" />
+<img width="896" height="349" alt="image" src="https://github.com/user-attachments/assets/07099cab-6c20-4043-a365-2ecfe986204a" />
+<img width="785" height="328" alt="image" src="https://github.com/user-attachments/assets/8a831bbf-a2bd-4ab8-9248-5993069f297d" />
+
+
